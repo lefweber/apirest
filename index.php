@@ -27,9 +27,6 @@ use \Api\Infra\UserRepoPdo;
 use \Api\Adapters\Http\Router;
 use \Api\Adapters\Http\Response;
 
-use \Api\UseCases\User\CreateUser;
-use \Api\UseCases\User\ReadUser;
-use \Api\UseCases\User\UpdateUser;
 use \Api\UseCases\User\UserManager;
 
 try 
